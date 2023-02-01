@@ -1,0 +1,52 @@
+[
+    {
+        "sectionName": "Beef",
+        "sectionDescription": "Gluten free beef recipes",
+        "sectionType": "Main Dish"
+    },
+    {
+        "sectionName": "Chicken",
+        "sectionDescription": "gluten free chicken recipes",
+        "sectionType": "Main Dish"
+    },
+    {
+        "sectionName": "Pork",
+        "sectionDescription": "Gluten free pork recipes",
+        "sectionType": "Main Dish"
+    },
+    {
+        "sectionName": "Soup",
+        "sectionDescription": "Gluten free soups. Stove top and crock pot",
+        "sectionType": "Main Dish"
+    },
+    {
+        "sectionName": "Breakfast",
+        "sectionDescription": "Gluten free bread recipes",
+        "sectionType": "Breakfast"
+    },
+    {
+        "sectionName": "Cookies",
+        "sectionDescription": "Gluten free cookie recipes",
+        "sectionType": "Dessert"
+    },
+    {
+        "sectionName": "Brownies & Bars",
+        "sectionDescription": "Gluten free brownie and bar recipes",
+        "sectionType": "Dessert"
+    },
+    {
+        "sectionName": "Candy",
+        "sectionDescription": "Candy recipes",
+        "sectionType": "Dessert"
+    },
+    {
+        "sectionName": "Quick Breads",
+        "sectionDescription": "Gluten free quick bread recipes",
+        "sectionType": "Bread"
+    },
+    {
+        "sectionName": "Yeast Breads",
+        "sectionDescription": "Gluten free yeasted bread recipes",
+        "sectionType": "Bread"
+    }
+]

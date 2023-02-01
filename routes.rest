@@ -1,0 +1,23 @@
+// LOCALHOST
+###
+// GET all cookbook sections
+###
+GET http://localhost:3000/cookbookSections
+###
+// GET one cookbook section
+###
+GET http://localhost:3000/cookbookSections/63dadeb5d2bc2aa4ce9d81a3
+###
+// POST route for a new cookbook section
+###
+POST http://localhost:3000/cookbookSections HTTP/1.1
+Content-Type: application/json
+
+{
+    "sectionName": "Side Dish",
+    "sectionDescription": "Gluten free side dish recipes",
+    "sectionType": "Side Dish"
+}
+###
+// 
+###
