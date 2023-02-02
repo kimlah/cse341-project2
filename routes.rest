@@ -21,3 +21,29 @@ Content-Type: application/json
 ###
 // 
 ###
+
+#############################################################################
+// RENDER LINKS
+#############################################################################
+
+// GET all cookbook sections
+###
+GET https://project2-w4li.onrender.com/cookbookSections
+###
+// GET one cookbook section
+###
+GET https://project2-w4li.onrender.com/cookbookSections/63dadeb5d2bc2aa4ce9d81a3
+###
+// POST route for a new cookbook section
+###
+POST https://project2-w4li.onrender.com/cookbookSections HTTP/1.1
+Content-Type: application/json
+
+{
+    "sectionName": "Side Dish",
+    "sectionDescription": "Gluten free side dish recipes",
+    "sectionType": "Side Dish"
+}
+###
+// 
+###

@@ -5,7 +5,7 @@ const doc = {
     title: 'My API',
     description: 'CSE 342 Project 2-Gluten Free Cook Book',
   },
-  host: 'project2.onrender.com',
+  host: 'project2-w4li.onrender.com',
   schemes: ['https'],
 };
 
